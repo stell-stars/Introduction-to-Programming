@@ -3,7 +3,7 @@
 
 int main() {
 
-    double number;
+double number;
     std::cout << "Введите дробное число: ";
     std::cin >> number;
 
